@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: default1231313213131212
+  namespace: metallb-system
+  labels:
+    "123424": "32423423"
