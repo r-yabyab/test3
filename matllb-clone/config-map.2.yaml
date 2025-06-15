@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: default1111111111
+  namespace: metallb-system
+  labels:
+    sdafasdas: sdaf
